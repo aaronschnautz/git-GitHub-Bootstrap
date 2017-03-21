@@ -4,5 +4,6 @@ body {
   }
 container {
     background: lightgray;
+    overflow: auto;
   }
 </style>
